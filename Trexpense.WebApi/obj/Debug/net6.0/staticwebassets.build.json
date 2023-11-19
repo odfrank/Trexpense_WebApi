@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GjMeMWD10WDBB53ft9j0dEa+IrXrLMF3iV3sYjTyxeA=",
+  "Source": "Trexpense.WebApi",
+  "BasePath": "_content/Trexpense.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
