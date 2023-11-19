@@ -1,0 +1,14 @@
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\bin\Debug\net6.0\Trexpense.DB.deps.json
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\bin\Debug\net6.0\Trexpense.DB.runtimeconfig.json
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\bin\Debug\net6.0\Trexpense.DB.dll
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\bin\Debug\net6.0\Trexpense.DB.pdb
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\Trexpense.DB.csproj.AssemblyReference.cache
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\Trexpense.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\Trexpense.DB.AssemblyInfoInputs.cache
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\Trexpense.DB.AssemblyInfo.cs
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\Trexpense.DB.csproj.CoreCompileInputs.cache
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\Trexpense.DB.dll
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\refint\Trexpense.DB.dll
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\Trexpense.DB.pdb
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\Trexpense.DB.genruntimeconfig.cache
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.DB\obj\Debug\net6.0\ref\Trexpense.DB.dll
