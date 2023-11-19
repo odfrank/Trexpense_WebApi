@@ -63,3 +63,5 @@ C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.WebApi\bin\Debug\net6.0\runtime
 C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.WebApi\bin\Debug\net6.0\Trexpense.DB.dll
 C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.WebApi\bin\Debug\net6.0\Trexpense.DB.pdb
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.WebApi\bin\Debug\net6.0\Expenses.Core.dll
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Trexpense.WebApi\bin\Debug\net6.0\Expenses.Core.pdb

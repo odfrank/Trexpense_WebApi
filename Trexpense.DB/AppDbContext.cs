@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Trexpense.DB;
 
-namespace Expenses.DB
+namespace Trexpense.DB
 {
     public class AppDbContext : DbContext
     {

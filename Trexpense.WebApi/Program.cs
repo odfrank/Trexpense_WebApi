@@ -1,4 +1,5 @@
-using Expenses.DB;
+using Expenses.Core;
+using Trexpense.DB;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 builder.Services.AddDbContext<AppDbContext>();
+builder.Services.AddTransient<IExpensesServices, ExpensesServices>();
 
 var app = builder.Build();
 

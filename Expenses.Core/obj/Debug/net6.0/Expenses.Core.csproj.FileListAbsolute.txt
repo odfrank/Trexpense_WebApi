@@ -1,0 +1,15 @@
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\bin\Debug\net6.0\Expenses.Core.deps.json
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\bin\Debug\net6.0\Expenses.Core.dll
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\bin\Debug\net6.0\Expenses.Core.pdb
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\bin\Debug\net6.0\Trexpense.DB.dll
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\bin\Debug\net6.0\Trexpense.DB.pdb
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\Expenses.Core.csproj.AssemblyReference.cache
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\Expenses.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\Expenses.Core.AssemblyInfoInputs.cache
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\Expenses.Core.AssemblyInfo.cs
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\Expenses.Core.csproj.CoreCompileInputs.cache
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\Expenses.Core.csproj.CopyComplete
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\Expenses.Core.dll
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\refint\Expenses.Core.dll
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\Expenses.Core.pdb
+C:\ODFLocal\Trexpense\Trexpense.WebApi\Expenses.Core\obj\Debug\net6.0\ref\Expenses.Core.dll

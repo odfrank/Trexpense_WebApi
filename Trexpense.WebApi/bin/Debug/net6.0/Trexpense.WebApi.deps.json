@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Trexpense.WebApi/1.0.0": {
         "dependencies": {
+          "Expenses.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.25",
           "Swashbuckle.AspNetCore": "6.2.3",
           "Trexpense.DB": "1.0.0"
@@ -487,6 +488,14 @@
           }
         }
       },
+      "Expenses.Core/1.0.0": {
+        "dependencies": {
+          "Trexpense.DB": "1.0.0"
+        },
+        "runtime": {
+          "Expenses.Core.dll": {}
+        }
+      },
       "Trexpense.DB/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.25",
@@ -839,6 +848,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "Expenses.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Trexpense.DB/1.0.0": {
       "type": "project",
