@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using System.IO;
 using Trexpense.DB;
 
 namespace Trexpense.DB
@@ -12,11 +14,6 @@ namespace Trexpense.DB
 
 
         public DbSet<Expense> Expenses { get; set; }
-        //public DbSet<User> Users { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server=.;Database=TrexpenseDb;Trusted_Connection=True;");
-        }
+        //public DbSet<User> Users { get; set; }        
     }
 }
